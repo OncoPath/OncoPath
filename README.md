@@ -1,4 +1,4 @@
-## # OncoPath – Sprijin digital pentru pacienții oncologici
+##  OncoPath – Sprijin digital pentru pacienții de cancer
 
 ## Descriere generală
 

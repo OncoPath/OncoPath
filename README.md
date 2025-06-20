@@ -7,7 +7,7 @@
 Pacientul oncologic nu are doar nevoie de tratament, ci și de informație clară, sprijin emoțional și un cadru de siguranță în care să fie auzit. În România, acest sprijin este adesea limitat la interacțiunile clinice, iar digitalizarea în domeniul oncologiei rămâne superficială sau inaccesibilă celor mai vulnerabili. Mulți pacienți nu știu unde să caute răspunsuri sau ce întrebări ar trebui să pună.  
 Cancerul este o boală a trupului. Dar vindecarea trece întotdeauna și prin suflet. Iar în spațiul digital, OncoPath devine un loc în care pacientul e privit ca om, nu ca statistică.
 
-💡 Descrierea soluției propuse  
+## 💡 Descrierea soluției propuse  
 OncoPath este o aplicație mobilă construită pentru a oferi sprijin emoțional, informativ și comunitar pacienților oncologici. Într-un context în care tehnologia poate deveni o punte între suferință și reziliență, OncoPath îmbină funcționalități cheie cu o interfață intuitivă, accesibilă și empatica. Aceasta combină trei dimensiuni majore:  
 • Suport emoțional (jurnal, starea mea, comunitate, interviuri reale)  
 • Educație medicală clară și accesibilă (dieta, tratamente, întrebări frecvente, factori de risc)  
@@ -15,37 +15,38 @@ OncoPath este o aplicație mobilă construită pentru a oferi sprijin emoțional
 
 Prin intermediul OncoPath, utilizatorii își pot monitoriza zilnic starea, pot primi mesaje de încurajare, pot afla detalii relevante despre tipul lor de tratament (în România și în alte țări) și pot interacționa cu alți pacienți. Această combinație dintre informație validată și suport emoțional oferă un cadru de sprijin autentic, lipsit de superficialitate.
 
-🎯 Public țintă  
+## 🎯 Public țintă  
 Publicul nostru țintă include:  
 • Pacienți oncologici din România, de toate vârstele( în viitor plănuim o extindere si in alte țări)  
 • Familii și aparținători care doresc să înțeleagă mai bine prin ce trece o persoană apropiata  
 • Medici care vor să-și sprijine pacienții  
 
-Membrii echipei  
+##Membrii echipei  
 Balan Julianna s-a ocupat în principal de cercetare, gestionarea feedback-ului primit și structurarea conținutului în aplicație.  
 Stanciu Mihaela s-a ocupat de partea de dezvoltare efectivă a aplicației în Thunkable și design-ul acesteia.
 
-⚙ Funcționalitățile aplicației  
+## ⚙ Funcționalitățile aplicației  
 Funcționalitățile sunt grupate în trei secțiuni mari:
 
-I. Suport  
+ ### I. Suport  
 - Jurnal personal – utilizatorul își poate nota gândurile, trăirile, și poate urmări cum evoluează emoțional;  
 - Comunitate – acces la situații reale, perspective diferite, și la un spațiu sigur pentru exprimare;  
 - Interviuri – videoclipuri scurte, autentice, cu un medic oncolog, o pacienta diagnosticată cu cancer și cu fiica acesteia;  
 - Starea mea – utilizatorul selectează cum s-a simțit azi și primește un mesaj personalizat de încurajare, într-un limbaj cald și empatic.  
 
-II. Educație  
+### II. Educație  
 - Informații despre tratament – atât din România, cât și din alte țări;  
 - Factori de risc – Prezentare organizată și clară a principalilor factori de risc în apariția cancerului, explicată în termeni simpli.   
 - Dieta – Recomandări alimentare adaptate pacienților oncologici, însoțite de explicații clare. Sursele folosite sunt verificate (Institutul Oncologic, OMS etc.).  
 - Întrebări frecvente despre cancer – oferim claritate acolo unde alții oferă jargon medical. Funcționalitate care permite utilizatorilor să primească răspunsuri la întrebări frecvente, într-un limbaj accesibil. În viitor, se va putea extinde către o funcție de chatbot sau integrare cu IA.  
 
-III. Jocuri simbolice, cu sens educativ si funcție dublă: educație prin empatie și reflecție personală.  
+### III. Jocuri simbolice, cu sens educativ si funcție dublă: educație prin empatie și reflecție personală.  
 - În primul joc, utilizatorul îngrijește un copil bolnav de cancer.  
 - În al doilea, trebuie să se ferească de celule canceroase   
 Aceste jocuri nu sunt acolo „pentru distracție”. Sunt acolo pentru că să înțelegi boala poate începe și prin joc.
 
-🧱 Arhitectura aplicației  
+## 🧱 Arhitectura aplicației  
+ 
 OncoPath a fost construită în Thunkable, o platformă no-code care ne-a permis să ne concentrăm pe experiența utilizatorului și să iterăm rapid în funcție de nevoile reale ale celor care au testat aplicația. Deși nu am scris linii de cod tradiționale, am construit cu mare atenție fiecare ecran, fiecare buton, fiecare tranziție, ghidate de principii solide de UI și UX.  
 Am acordat o atenție specială interfeței: tema vizuală este caldă, blândă, prietenoasă, o alegere conștientă într-un context dominat, de obicei, de termeni medicali reci. Culoarea principală este roz, simbol internațional al luptei împotriva cancerului, iar logo-ul aplicației este gândit să comunice din primul moment ideea de sprijin și încredere.  
 În ceea ce privește gestionarea datelor, aplicația este minim invazivă. Singurul spațiu în care se păstrează date este în tab-ul Comunitate, unde utilizatorul își poate introduce un nume (chiar fictiv) și opțional o fotografie, fără a fi nevoie de înregistrare sau cont. Restul funcționalităților se folosesc în mod anonim, în siguranță, păstrând intimitatea utilizatorului.  
@@ -57,12 +58,16 @@ Am ales simplitatea și accesibilitatea, nu ca un compromis, ci ca un principiu 
 
 
 💎 Elemente distinctive și puncte forte
+
 1.Colaborare directă cu clinica Neolife Iași, una dintre cele mai mari clinici oncologice din România. Această colaborare ne-a permis:
-• să testăm aplicația pe parcursul dezvoltării cu pacienți reali;
-• să primim feedback imediat și valoros;
-• să includem în aplicatie interviuri autentice cu medici, pacienți și aparținători;
-• să prioritizăm ce contează cu adevărat în funcționalitățile oferite.
+
+ • să testăm aplicația pe parcursul dezvoltării cu pacienți reali;
+ •să primim feedback imediat și valoros;
+ • să includem în aplicatie interviuri autentice cu medici, pacienți și aparținători;
+ • să prioritizăm ce contează cu adevărat în funcționalitățile oferite.
+
 2.Empatie – aplicația a pornit dintr-o experiență personală și a fost construită gândindu-ne constant la pacient, nu doar la funcționalitate.
+
 3. Accent pe accesibilitate și adaptare culturală. Spre deosebire de majoritatea aplicațiilor oncologice disponibile (în limba engleză, generaliste sau supraspecializate), OncoPath este:
 • scrisă într-un limbaj clar, uman și în limba română;
 • gândită pentru pacienții din România, cu informații despre tratamente disponibile atât local cât și internațional;

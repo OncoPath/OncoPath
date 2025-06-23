@@ -106,7 +106,7 @@ Aplicația conține atât blocuri de cod simple, utilizate pentru a naviga într
 6. OncoPath este construită cu pacienții, nu doar „pentru” pacienți. Avem interviuri reale, conținut umanizat și o abordare empatică – dar informat medical.
 
 ![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224213_Word.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224228_Word.jpg?raw=true)
 ![image alt]()
 
 ## ✅ Justificarea tehnologiilor alese

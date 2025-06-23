@@ -25,6 +25,10 @@ Publicul nostru țintă include:
 Balan Julianna s-a ocupat în principal de cercetare, gestionarea feedback-ului primit și structurarea conținutului în aplicație.  
 Stanciu Mihaela s-a ocupat de partea de dezvoltare efectivă a aplicației în Thunkable și design-ul acesteia.
 
+Colaborarea noastră a fost facilitată prin Discord, unde am comunicat constant și am luat decizii rapide și eficiente. Ne-am organizat sarcinile printr-un sistem simplu de task tracking, iar pentru a urmări progresul și eventualele erori, am ținut o evidență clară a modificărilor.
+Ce ne-a unit a fost nu doar dorința de a face o aplicație bună, ci de a face o diferență reală. Și credem că exact asta se simte în produsul final.
+
+
 ##  ⚙ Funcționalitățile aplicației  
 Funcționalitățile sunt grupate în trei secțiuni mari:
 
@@ -54,6 +58,20 @@ Am acordat o atenție specială interfeței: tema vizuală este caldă, blândă
 În ceea ce privește gestionarea datelor, aplicația este minim invazivă. Singurul spațiu în care se păstrează date este în tab-ul Comunitate, unde utilizatorul își poate introduce un nume (chiar fictiv) și opțional o fotografie, fără a fi nevoie de înregistrare sau cont. Restul funcționalităților se folosesc în mod anonim, în siguranță, păstrând intimitatea utilizatorului.  
 
 Am ales simplitatea și accesibilitatea, nu ca un compromis, ci ca un principiu de arhitectură, pentru că aplicația noastră nu se adresează doar utilizatorilor tineri sau tehnici, ci și pacienților în vârstă sau în momente dificile, care au nevoie de un mediu clar, liniștitor și ușor de folosit.
+
+Totul se construiește prin blocuri logice, pe care le-am adăugat și conectat vizual, asemenea unui puzzle. Fiecare bloc are un rol bine definit: de la acțiuni simple, precum trecerea între pagini, până la salvarea de date, afișarea de conținut sau declanșarea unei animație într-un joc.
+
+Functionalitatile oferite de thunkable au fost suficiente pentru a atinge scopul aplicației: de a sprijini pacienții. Alte posibile functionalitati, oferite de alte limbaje de programare nu au fost necesare în cazul nostru, iar alegerea de a nu le folosi a fost conștientă și justificată de scopul aplicației. In plus, ofera posibilitatea de a exporta aplicația atat pentru Android cat si pentru iOS, fiind necesari doar 49 MB.
+
+Avantajul major al acestei platforme este că am putut testa instant orice modificare. Totul se întâmplă în timp real—atât interfața, cât și comportamentul aplicației. Așa am reușit să ne adaptăm ideile și să construim o aplicație funcțională, bine structurată, gata să fie folosită de publicul nostru țintă.
+Testarea a fost un pas cheie.  Aplicația a fost testată manual în mai multe etape, pe mai multe dispozitive pentru a verifica funcționalitatea fiecărei componente. In plus, am folosit opțiunea de „Live Test” din Thunkable pentru testări rapide și corectarea bugurilor în timp real. 
+
+Platforma ofera propriul sistem de versionare, iar noi am lucrat ordonat, salvand copii ale proiectului in momente cheie.  De asemenea, detecteaza si semnaleaza erorile aparute in scrierea codului, deci nu a fost nevoie de folosirea unui bug tracker alternativ.
+
+
+Thunkable organizează aplicația în ecrane distincte, pentru fiecare funcționalitate: jurnalul, interviurile, comunitatea sau jocurile. Navigarea între aceste ecrane se face rapid și fără efort, prin acțiuni definite în blocurile de logică.
+Aplicația rulează stabil, fără blocaje sau scurgeri de memorie. Resursele sistemului sunt utilizate eficient, întrucât Thunkable gestionează automat majoritatea optimizărilor la nivel de sistem (CPU, memorie, baterie). În plus, am evitat funcționalitățile care ar putea genera consum excesiv (animații inutile, actualizări constante etc.).
+Aplicația conține atât blocuri de cod simple, utilizate pentru a naviga între ecrane sau pentru a modifica vizibilitatea unor elemente, cât și blocuri de cod mai complexe.
 
 
 ## 🧩 Interfață și experiență de utilizare (UI/UX)  
@@ -163,7 +181,12 @@ Promovare digitală pe grupuri de pacienți și în campanii de informare
 Fiind realizată în Thunkable, OncoPath poate fi distribuită rapid pe Android și iOS. Nu necesită cont sau autentificare dificilă: pacientul se poate conecta direct cu aplicația, fără stres suplimentar. Tehnologia e simplă, dar bine gândită: aplicația funcționează stabil, nu colectează date sensibile și e deja testată de zeci de utilizatori fără erori critice.
 
 ## Componente ale proiectului care nu au fost realizare de noi:
-Informațiile au fost preluate, sintetizate și traduse din cărțile de specialitate Anticancer: A New Way of Life de Dr. David Servan-Schreiber și Nutrition and Cancer: Prevention and Survival de Neal D. Barnard sau de pe siteurile oficiale Institutul Oncologic, OMS
+Informațiile au fost preluate, sintetizate și traduse din cărțile de specialitate
+
+- Anticancer: A New Way of Life de Dr. David Servan-Schreiber
+- Nutrition and Cancer: Prevention and Survival de Neal D. Barnard
+
+sau de pe siteurile oficiale Institutul Oncologic, OMS
 
 Pdf urile cu informatii au fost preluate de pe site ul WHO: World Health Organisation
 

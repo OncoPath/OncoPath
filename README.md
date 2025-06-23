@@ -17,6 +17,8 @@ OncoPath este o aplicație mobilă construită pentru a oferi sprijin emoțional
 
 Prin intermediul OncoPath, utilizatorii își pot monitoriza zilnic starea, pot primi mesaje de încurajare, pot afla detalii relevante despre tipul lor de tratament (în România și în alte țări) și pot interacționa cu alți pacienți. Această combinație dintre informație validată și suport emoțional oferă un cadru de sprijin autentic, lipsit de superficialitate.
 
+![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224331_Word.jpg?raw=true)
+
 ## 🎯 Public țintă  
 Publicul nostru țintă include:  
 • Pacienți oncologici din România, de toate vârstele( în viitor plănuim o extindere si in alte țări)  

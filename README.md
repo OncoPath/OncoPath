@@ -7,6 +7,8 @@
 Pacientul oncologic nu are doar nevoie de tratament, ci și de informație clară, sprijin emoțional și un cadru de siguranță în care să fie auzit. În România, acest sprijin este adesea limitat la interacțiunile clinice, iar digitalizarea în domeniul oncologiei rămâne superficială sau inaccesibilă celor mai vulnerabili. Mulți pacienți nu știu unde să caute răspunsuri sau ce întrebări ar trebui să pună.  
 Cancerul este o boală a trupului. Dar vindecarea trece întotdeauna și prin suflet. Iar în spațiul digital, OncoPath devine un loc în care pacientul e privit ca om, nu ca statistică.
 
+![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224258_Word.jpg?raw=true)
+
 ## 💡 Descrierea soluției propuse  
 OncoPath este o aplicație mobilă construită pentru a oferi sprijin emoțional, informativ și comunitar pacienților oncologici. Într-un context în care tehnologia poate deveni o punte între suferință și reziliență, OncoPath îmbină funcționalități cheie cu o interfață intuitivă, accesibilă și empatica. Aceasta combină trei dimensiuni majore:  
 • Suport emoțional (jurnal, starea mea, comunitate, interviuri reale)  

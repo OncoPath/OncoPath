@@ -107,7 +107,7 @@ Aplicația conține atât blocuri de cod simple, utilizate pentru a naviga într
 
 ![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224213_Word.jpg?raw=true)
 ![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224228_Word.jpg?raw=true)
-![image alt]()
+![image alt](https://github.com/OncoPath/OncoPath/blob/main/Screenshot_20250623_224346_Word.jpg?raw=true)
 
 ## ✅ Justificarea tehnologiilor alese
 Thunkable poate părea o alegere „simplă” în comparație cu alte framework-uri moderne, dar pentru noi a fost instrumentul potrivit pentru misiunea potrivită. Am ales Thunkable pentru că:
